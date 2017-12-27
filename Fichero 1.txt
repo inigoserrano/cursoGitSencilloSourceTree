@@ -22,3 +22,6 @@ caracteristica 3-2
 
 
 añadir contendido
+
+
+para el gitHub
