@@ -1,5 +1,7 @@
 Caracteristica 4
 
+HotFix 3
+
 Cambio hecho en el GitHub directamente
 
 Este es el fichero 1
